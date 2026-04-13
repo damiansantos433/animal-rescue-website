@@ -14,7 +14,7 @@ http://cis190a.nupurple.net/dsantos/rescue/index.html
 ## Technologies Used
 - HTML  
 - CSS  
-- JavaScript (if applicable)  
+- JavaScript   
 
 ## What I Learned
 - Structuring and organizing multi-page websites  
