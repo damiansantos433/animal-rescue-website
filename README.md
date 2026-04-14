@@ -27,4 +27,4 @@ http://cis190a.nupurple.net/dsantos/rescue/index.html
 2. Open `index.html` in your browser  
 
 ## Notes
-This project was developed as part of my web design coursework and represents my foundation in frontend development.
+This project highlights my early experience in frontend development, with a focus on clean layout design, navigation, and overall user experience.
